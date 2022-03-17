@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    align-items: center;
+}
+.half-width{
+    width: 50%;
+    padding: 10px;
+}
+.half-width img{
+    width: 100%;
+}
+button{
+    padding: 10px 20px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+}
+.one-third{
+    width: 32%;
+}
+.one-third h3{
+    text-align: center;
+}
+.one-third img{
+    width: 100%;
+}
+.second-third{
+    margin: 0 2%;
+}
